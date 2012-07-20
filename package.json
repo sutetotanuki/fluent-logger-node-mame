@@ -1,0 +1,21 @@
+{
+  "name": "node-fluent-logger-mame",
+  "description": "mame siba-",
+  "version": "0.0.0",
+  "author": "sutetotanuki",
+  "dependencies": {
+    "msgpack-js": "",
+    "dateformat": ""
+  },
+  "devDependencies": {
+    "mocha": "",
+    "chai": "",
+    "sinon": "",
+    "sinon-chai": ""
+  },
+  "main": "lib/logger",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "https://github.com/sutetotanuki/fluent-logger-node-mame"
+}
